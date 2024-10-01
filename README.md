@@ -7,7 +7,7 @@ This repository contains the code and dataset used in developing an optimal mach
 
 - **Data Source**: 
   - The dataset includes structural damage data collected during the 2015 Gorkha Earthquake.
-    Visit [Kaggle](https://www.kaggle.com/datasets/arashnic/earthquake-magnitude-damage-and-impact?resource=download&select=csv_building_structure.csv) to find datasets.
+    Visit [Kaggle](https://www.kaggle.com/datasets/arashnic/earthquake-magnitude-damage-and-impact?resource=download&select=csv_building_structure.csv) to find dataset.
   - Earthquake intensity data is provided in contour form, and **linear interpolation** was used to estimate intensities for specific locations (wards).
 
 - **Damage Grade Prediction**: 
