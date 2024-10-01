@@ -1,6 +1,6 @@
 # Earthquake-Induced Damage Grade Prediction
 
-This repository contains the code and dataset used in developing an optimal machine learning model for predicting earthquake-induced damage grades (ranging from 0 to 4) based on data from the 2015 Nepal (Gorkha) Earthquake. The project aims to provide accurate predictions of building damage, assisting in post-disaster assessments and future risk management.
+This repository contains the code and dataset used in identifying an optimal machine learning model for predicting earthquake-induced damage grades (ranging from 0 to 4) based on data from the 2015 Nepal (Gorkha) Earthquake. The project aims to provide accurate predictions of building damage, assisting in post-disaster assessments and future risk management.
 
 
 ## Key Features
