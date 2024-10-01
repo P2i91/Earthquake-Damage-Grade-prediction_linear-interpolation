@@ -2,10 +2,12 @@
 
 This repository contains the code and dataset used in developing an optimal machine learning model for predicting earthquake-induced damage grades (ranging from 0 to 4) based on data from the 2015 Nepal (Gorkha) Earthquake. The project aims to provide accurate predictions of building damage, assisting in post-disaster assessments and future risk management.
 
+
 ## Key Features
 
 - **Data Source**: 
   - The dataset includes structural damage data collected during the 2015 Gorkha Earthquake.
+    Visit [Kaggle](https://www.kaggle.com/datasets/arashnic/earthquake-magnitude-damage-and-impact?resource=download&select=csv_building_structure.csv) to find datasets.
   - Earthquake intensity data is provided in contour form, and **linear interpolation** was used to estimate intensities for specific locations (wards).
 
 - **Damage Grade Prediction**: 
