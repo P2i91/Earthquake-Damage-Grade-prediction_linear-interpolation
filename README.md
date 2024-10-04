@@ -21,8 +21,4 @@ This repository contains the code and dataset used in identifying an optimal mac
 - **Linear Interpolation for Intensity Data**: 
   - The available intensity data in contour form was interpolated linearly to determine earthquake intensities at ward-level locations.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Earthquake-Damage-Grade-Prediction.git
